@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @PalomaPe
-- 👀 I’m interested in web development, specially backend
-- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: paloma.peirano@gmail.com
